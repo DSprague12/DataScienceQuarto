@@ -1,89 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dallin Sprague's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Dallin Sprague
+Computer Science Student | Aspiring AI Engineer  
+Brigham Young University–Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sdallin812@gmail.com">sdallin812@gmail.com</a>
+| <a href="https://github.com/DSprague12">GitHub</a>
+| <a href="https://www.linkedin.com/in/dallinwsprague/">LinkedIn</a>
 </div>
 
+---
 
 ## Currently
 
-Standing on the shoulders of giants
+Computer Science student with a focus on AI engineering and data science.  
+Interested in building intelligent, scalable systems and applying machine learning to real-world problems.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Machine Learning, Data Analysis, Accessibility Engineering, Backend Development
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Artificial Intelligence, Data Science, Human-Centered Computing, Computational Modeling
 
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 – Present`  
+__Brigham Young University–Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- B.S. in Computer Science  
+- Minor in Chinese Language  
+- GPA: 3.87  
+- Expected Graduation: April 2027  
 
-- Sizar
+---
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+`July 2025 – Present`  
+__Digital Accessibility Specialist / Auditor__, Brigham Young University–Idaho  
 
+- Conduct technical audits of university web applications for WCAG 2.1 compliance  
+- Identify accessibility issues and document risks for development teams  
+- Collaborate with developers to implement accessibility improvements  
+- Research initiatives to expand accessibility services and improve student support  
 
+---
 
-## Awards
+## Projects
 
-`2012`
-President, *Royal Society*, London, UK
+### Housing Price Prediction Model
+- Developed an XGBoost machine learning model in Python achieving 92% accuracy  
+- Applied feature engineering, data preprocessing, and model tuning  
 
-Associate, *French Academy of Science*, Paris, France
+### GIS Real Estate Visualization System
+- Built a GIS-based tool to analyze housing price trends by county  
+- Integrated spatial data analysis and visualization techniques  
 
+### Mandarin Learning Tool
+- Created a system to improve Chinese character memorization  
+- Implemented stroke order logic and radical recognition features  
 
+---
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**Programming:** C#, .NET, Python, Java, C++, JavaScript  
+**Data & Tools:** SQL, Pandas, Data Analysis, Database Management  
+**Other:** Accessibility Auditing, WCAG Compliance, Risk Assessment, Technical Documentation  
+**Languages:** English (native), Portuguese (fluent), Spanish (conversational)  
 
-### Journals
+---
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Additional
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Studying Chinese language and culture  
+- Interested in global applications of technology and AI  
